@@ -1,8 +1,8 @@
 # Multi-Threaded-Prime-Number-Calculation
- File: process.pyc (Python 2.7)
+
  
  
-'''
+
 Prime process filter.
  
 SYNOPSIS
@@ -66,4 +66,4 @@ token message right AFTER forwarding the prime message
 (otherwise the next process on the ring will save the new
 prime too).
  
-'''
+
